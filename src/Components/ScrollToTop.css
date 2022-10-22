@@ -1,0 +1,16 @@
+
+.scrol-icon{
+position:fixed;
+right: 50px;
+bottom: 50px;
+height: 30px;
+width: 30px;
+border-radius: 100%;
+background-color: grey;
+color:#ffff;
+cursor: pointer;
+}
+.scrol-icon:hover{
+    opacity: 0.5;
+    transition: opacity 0.5s ease-in-out;
+}
